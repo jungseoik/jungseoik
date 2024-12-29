@@ -33,8 +33,16 @@
 
 ---
 
-## 🌱 What I'm Studying Recently
-
+## 🔬 Research Interests
+- **Vision-Language Models (VLM) & Video Retrieval**  
+  Enhancing the performance of video retrieval models, ensuring lightweight yet high-performing solutions.  
+  Developing error-free real-time video inference systems to process and analyze video streams effectively.
+- **Upscaling Techniques**  
+  Exploring GAN-based models for high-quality image upscaling and resolution enhancement.
+- **Image Generation**  
+  Focused on diffusion-based models for generating realistic and creative images.
+- **Live Portrait Models**  
+  Interested in models that bring portraits to life with motion, enhancing realism and interactivity.
 ---
 ## 😃 My Project 
 ### ML/DL
