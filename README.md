@@ -37,9 +37,16 @@
 
 ---
 ## 😃 My Project 
+### ML/DL
+- [East coast water temperature forecast](https://github.com/jungseoik/time_series_predict)
+- [bicycle-accident-predict problem](https://github.com/jungseoik/bicycle-accident-predict)
 - [Emotional data learning model application](https://github.com/lily39910/Imotion_Image)
 - [Artifact space temperature and humidity prediction management system using LSTM](https://github.com/baek-s-j/WC-project)
-- [Emotional data learning model application](https://github.com/lily39910/Imotion_Image)
+### APP
+- [AI_Hackathon](https://github.com/jungseoik/AI_Hackathon)
+- [Home IoT](https://github.com/Srat00/HomeIoT_Raspberry)
+- [Emotion analysis diary using open AI API](https://github.com/jungseoik/ICTproject_emotion_diary)
+
 
 
 ## 📫 How to Reach Me
