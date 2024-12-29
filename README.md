@@ -46,8 +46,8 @@
 ---
 ## 😃 My Project 
 ### ML/DL
-- [East coast water temperature forecast](https://github.com/jungseoik/time_series_predict)
-- [bicycle-accident-predict problem](https://github.com/jungseoik/bicycle-accident-predict)
+- [East coast water temperature forecast](https://github.com/jungseoik/Time_series_predict)
+- [Bicycle_accident_predict](https://github.com/jungseoik/Bicycle_accident_predict)
 - [Emotional data learning model application](https://github.com/lily39910/Imotion_Image)
 - [Artifact space temperature and humidity prediction management system using LSTM](https://github.com/baek-s-j/WC-project)
 ### APP
